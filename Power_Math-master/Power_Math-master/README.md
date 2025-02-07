@@ -125,20 +125,5 @@ POST https://your-api-endpoint/dev
 
 ---
 
-## License
 
-This project is open-source and available under the MIT License.
-
----
-
-## Author
-
-**Shaik Mahaboob Arshad**  
-- **Email**: mahaboobarshadshaik@gmail.com  
-- **LinkedIn**: [Profile Link](https://www.linkedin.com/in/mahaboob-arshad-shaik-99078924a)  
-- **GitHub**: [Repository Link](https://github.com/ss9611)
-
----
-
-Feel free to explore and improve the project!
 
